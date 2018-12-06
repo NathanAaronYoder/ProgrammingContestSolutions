@@ -1,4 +1,4 @@
-//This program adds a number by 1 returns it in the form of an array.
+//This program adds a number by 1 and returns it in the form of an array.
 public class OneUp {
 
 	public static int[] oneUp(int number)
