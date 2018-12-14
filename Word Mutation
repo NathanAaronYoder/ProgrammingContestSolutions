@@ -1,6 +1,6 @@
-//Given an array of words, this program determines whether there exists a mutation in the order of the words, such that for every word 
-in the list, the next word can be made by changing only 1 letter. Return 1 if such an order exists, otherwise return 0.
-public class WordMutation 
+/*Given an array of words, this program determines whether there exists a mutation in the order of the words, such that for every word 
+in the list, the next word can be made by changing only 1 letter. Return 1 if such an order exists, otherwise return 0.*/
+public class WordMutation
 {
 	//This function returns whether or not two words have one different letter.
 	public static boolean oneDifference(String first, String second)
