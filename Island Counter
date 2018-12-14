@@ -1,5 +1,6 @@
 import java.util.ArrayList;
-//A 1 represents a piece of land. A 0 represents a body of water. This program takes a 2D Array of 1's and 0's and returns how many islands there are in the map.
+/*A 1 represents a piece of land. A 0 represents a body of water. 
+This program takes a 2D Array of 1's and 0's and returns how many islands there are in the map.*/
 public class IslandCounter {
 
 	private static ArrayList<int[]> countedOnes = new ArrayList<int[]>();
